@@ -1,0 +1,34 @@
+T-Shirt Sales Analysis Report
+============================
+
+Total Revenue: $739.70
+Total T-Shirts Sold: 30
+Average Price per T-Shirt: $24.66
+
+T-Shirt Sizes by Revenue
+------------------------
+Size M: $259.89 - 11 units
+Size XL: $179.94 - 6 units
+Size L: $164.93 - 7 units
+Size S: $134.94 - 6 units
+
+T-Shirt Colours by Revenue
+--------------------------
+Black: $279.88 - 12 units
+Blue: $179.94 - 6 units
+Red: $124.95 - 5 units
+White: $109.95 - 5 units
+Green: $44.98 - 2 units
+
+T-Shirt Designs by Revenue
+--------------------------
+Graphic: $299.89
+Logo: $239.91
+Plain: $199.90
+
+Key Insights
+------------
+Best size by revenue: M ($259.89)
+Most popular size by quantity: M (11 units)
+Best colour: Black ($279.88)
+Top design: Graphic ($299.89)
